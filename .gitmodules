@@ -1,3 +1,6 @@
 [submodule "Assets/Plugins/monolith-unity"]
 	path = Assets/Plugins/monolith-unity
 	url = https://github.com/bmotamer/monolith-unity
+[submodule "Assets/Plugins/2d-extras"]
+	path = Assets/Plugins/2d-extras
+	url = https://github.com/Unity-Technologies/2d-extras

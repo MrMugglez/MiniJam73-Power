@@ -1,3 +1,3 @@
-[submodule "monolith-unity"]
+[submodule "Assets/Plugins/monolith-unity"]
 	path = Assets/Plugins/monolith-unity
 	url = https://github.com/bmotamer/monolith-unity

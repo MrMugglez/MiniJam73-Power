@@ -12,9 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
   m_Name: LavaTop
   m_EditorClassIdentifier: 
-  m_AnimatedSprites: []
-  m_MinSpeed: 1
-  m_MaxSpeed: 1
+  m_AnimatedSprites:
+  - {fileID: -2401765029695870608, guid: 7725a8e78db10c94fb907775de6b454b, type: 3}
+  - {fileID: 5489472558005857398, guid: 7725a8e78db10c94fb907775de6b454b, type: 3}
+  - {fileID: 3710502087761125682, guid: 7725a8e78db10c94fb907775de6b454b, type: 3}
+  - {fileID: -8638818777482587656, guid: 7725a8e78db10c94fb907775de6b454b, type: 3}
+  - {fileID: 1121527677503820063, guid: 7725a8e78db10c94fb907775de6b454b, type: 3}
+  - {fileID: -1190282722428974700, guid: 7725a8e78db10c94fb907775de6b454b, type: 3}
+  - {fileID: 5962622941062810116, guid: 7725a8e78db10c94fb907775de6b454b, type: 3}
+  - {fileID: -2290519429144922808, guid: 7725a8e78db10c94fb907775de6b454b, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
   m_AnimationStartTime: 0
   m_AnimationStartFrame: 0
   m_TileColliderType: 0

@@ -12,9 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
   m_Name: LavaFall
   m_EditorClassIdentifier: 
-  m_AnimatedSprites: []
-  m_MinSpeed: 1
-  m_MaxSpeed: 1
+  m_AnimatedSprites:
+  - {fileID: -4145350264371448081, guid: 715749699020a8940a1b3a818ebca887, type: 3}
+  - {fileID: 6910700451631067807, guid: 715749699020a8940a1b3a818ebca887, type: 3}
+  - {fileID: -7209750847168865183, guid: 715749699020a8940a1b3a818ebca887, type: 3}
+  - {fileID: -16701942134425731, guid: 715749699020a8940a1b3a818ebca887, type: 3}
+  - {fileID: 7986431428069465301, guid: 715749699020a8940a1b3a818ebca887, type: 3}
+  - {fileID: -7748987381479987656, guid: 715749699020a8940a1b3a818ebca887, type: 3}
+  - {fileID: -6507138136143989719, guid: 715749699020a8940a1b3a818ebca887, type: 3}
+  - {fileID: 4439644652179015469, guid: 715749699020a8940a1b3a818ebca887, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
   m_AnimationStartTime: 0
   m_AnimationStartFrame: 0
   m_TileColliderType: 0

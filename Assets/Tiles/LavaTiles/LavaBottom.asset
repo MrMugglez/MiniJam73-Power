@@ -10,11 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
-  m_Name: New Animated Tile
+  m_Name: LavaBottom
   m_EditorClassIdentifier: 
-  m_AnimatedSprites: []
-  m_MinSpeed: 1
-  m_MaxSpeed: 1
+  m_AnimatedSprites:
+  - {fileID: 7214668047968171340, guid: 9139b9090e1221c48a68e19059768ad6, type: 3}
+  - {fileID: 7478572436412624975, guid: 9139b9090e1221c48a68e19059768ad6, type: 3}
+  - {fileID: -107144579039042176, guid: 9139b9090e1221c48a68e19059768ad6, type: 3}
+  - {fileID: -3849658670647144948, guid: 9139b9090e1221c48a68e19059768ad6, type: 3}
+  - {fileID: -8896799706226289721, guid: 9139b9090e1221c48a68e19059768ad6, type: 3}
+  - {fileID: -4069454978710396635, guid: 9139b9090e1221c48a68e19059768ad6, type: 3}
+  - {fileID: 4401705117705755258, guid: 9139b9090e1221c48a68e19059768ad6, type: 3}
+  - {fileID: 3620895254895171802, guid: 9139b9090e1221c48a68e19059768ad6, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
   m_AnimationStartTime: 0
   m_AnimationStartFrame: 0
   m_TileColliderType: 0

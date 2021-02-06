@@ -1,7 +1,91 @@
 fileFormatVersion: 2
 guid: 0863783f8d340d845b8b9a803354dd04
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 2306730420398929743
+    second: RuinsDecorations_0
+  - first:
+      213: 932101261245945451
+    second: RuinsDecorations_1
+  - first:
+      213: -2788821123286270649
+    second: RuinsDecorations_2
+  - first:
+      213: 583874766947547175
+    second: RuinsDecorations_3
+  - first:
+      213: -5420857992891133850
+    second: RuinsDecorations_4
+  - first:
+      213: -8772952065066039840
+    second: RuinsDecorations_5
+  - first:
+      213: 4448009149498768056
+    second: RuinsDecorations_6
+  - first:
+      213: -2733734923541956067
+    second: RuinsDecorations_7
+  - first:
+      213: -2347714059235964275
+    second: RuinsDecorations_8
+  - first:
+      213: 5589837777437204128
+    second: RuinsDecorations_9
+  - first:
+      213: -3014785433294789027
+    second: RuinsDecorations_10
+  - first:
+      213: -3377124751976277425
+    second: RuinsDecorations_11
+  - first:
+      213: 3310340159238083210
+    second: RuinsDecorations_12
+  - first:
+      213: -4846674310554386567
+    second: RuinsDecorations_13
+  - first:
+      213: 3557947516893261274
+    second: RuinsDecorations_14
+  - first:
+      213: -8158356404311089998
+    second: RuinsDecorations_15
+  - first:
+      213: -2296699209880846937
+    second: RuinsDecorations_16
+  - first:
+      213: 3385615186917630102
+    second: RuinsDecorations_17
+  - first:
+      213: -6682374866163986561
+    second: RuinsDecorations_18
+  - first:
+      213: -591067274477325549
+    second: RuinsDecorations_19
+  - first:
+      213: -563899475283743166
+    second: RuinsDecorations_20
+  - first:
+      213: 1852221121655514779
+    second: RuinsDecorations_21
+  - first:
+      213: 5390810259310629393
+    second: RuinsDecorations_22
+  - first:
+      213: -5106850454158263869
+    second: RuinsDecorations_23
+  - first:
+      213: -4839418463558696423
+    second: RuinsDecorations_24
+  - first:
+      213: -8543616939643886894
+    second: RuinsDecorations_25
+  - first:
+      213: 8031868624804538916
+    second: RuinsDecorations_26
+  - first:
+      213: -3935393163400731573
+    second: RuinsDecorations_27
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -31,7 +115,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +124,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -64,7 +148,55 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -73,7 +205,70 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: RuinsDecorations_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4737748817230020800000000000000
+      internalID: 2306730420398929743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsDecorations_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66124b982d7fec00800000000000000
+      internalID: 932101261245945451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsDecorations_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d7a64d6fd1c49d0800000000000000
+      internalID: -2788821123286270649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

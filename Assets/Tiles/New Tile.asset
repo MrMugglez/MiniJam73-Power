@@ -10,10 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Lava_tileset_68
+  m_Name: New Tile
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 4023317911480156836, guid: 26d2a3e0e0e0b0d43839bc0c1af4d20f,
-    type: 3}
+  m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
